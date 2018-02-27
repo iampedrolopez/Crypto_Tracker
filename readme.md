@@ -5,7 +5,7 @@ The aim of this project is create panel data from 20 cryptocurrencies to analyze
 
 ## Getting Started
 
-This program is written on python version 3.5 
+This program is written on python version 3.5
 
 
 ## Prerequisites
@@ -36,9 +36,4 @@ Please make sure you have installed the following libraries in python to run thi
 
 ## Author
 
-* **Pedro A. Lopez F.** - *Initial work* - [Final Project](http://gitlab.doc.gold.ac.uk/plope003/pedrolopez-data-programming/tree/master/Final_Project)
-
-
-## License
-
-This project is licensed under the GOLDSMITHS License
+* **Pedro A. Lopez F.**
