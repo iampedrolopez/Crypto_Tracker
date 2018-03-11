@@ -2,6 +2,7 @@
 
 The aim of this project is create panel data from 20 cryptocurrencies to analyze and create further predictive models of price movements. The information is retrieved from www.coinmarketcap.com a listing with updated financial data from all the cryptocurrencies in the world.
 
+## To read the report please download cc_report.zip
 
 ## Getting Started
 
